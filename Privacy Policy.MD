@@ -66,4 +66,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 ## Contact
 
-If you have questions about this Privacy Policy or wish to exercise your data rights, please contact the Service administrator directly.
+If you have questions about this Privacy Policy or wish to exercise your data rights, please contact us at Marlon@cwcx.com.
