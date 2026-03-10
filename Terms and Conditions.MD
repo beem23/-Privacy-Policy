@@ -62,4 +62,4 @@ We reserve the right to modify these Terms and Conditions at any time. Changes w
 
 ## Contact
 
-If you have any questions about these Terms and Conditions, please contact the Service administrator directly.
+If you have questions about this Privacy Policy or wish to exercise your data rights, please contact us at Marlon@cwcx.com.
