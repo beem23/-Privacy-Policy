@@ -37,8 +37,7 @@ To rejoin the Service after opting out, reply **START** or contact the Service a
 
 ## Help
 
-For support, reply **HELP** to any message from the Service, or contact the Service administrator directly.
-
+For support, reply HELP to any message from the Service, or contact us at Marlon@cwcx.com.
 ## Supported Carriers
 
 The Service supports messaging on all major U.S. mobile carriers. Carriers are not liable for delayed or undelivered messages.
@@ -62,4 +61,4 @@ We reserve the right to modify these Terms and Conditions at any time. Changes w
 
 ## Contact
 
-If you have questions about this Privacy Policy or wish to exercise your data rights, please contact us at Marlon@cwcx.com.
+If you have any questions about these Terms and Conditions, please contact us at Marlon@cwcx.com.
