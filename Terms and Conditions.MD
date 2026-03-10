@@ -53,7 +53,7 @@ The Service is provided "as is" without warranty of any kind, express or implied
 
 ## Privacy
 
-Your privacy is important to us. Please review our [Privacy Policy](PRIVACY_POLICY.md) for details on how we collect, use, and protect your information. We do not sell or share your personal information with third parties for marketing purposes.
+Your privacy is important to us. Please review our [Privacy Policy](https://github.com/beem23/-Privacy-Policy/blob/main/Privacy%20Policy.MD) for details on how we collect, use, and protect your information. We do not sell or share your personal information with third parties for marketing purposes.
 
 ## Modifications
 
